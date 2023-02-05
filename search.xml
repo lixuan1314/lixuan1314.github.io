@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>官方通知</title>
+      <link href="blog/%E5%AE%98%E6%96%B9%E9%80%9A%E7%9F%A5/"/>
+      <url>blog/%E5%AE%98%E6%96%B9%E9%80%9A%E7%9F%A5/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>凯旋店宣传</title>
       <link href="blog/%E5%87%AF%E6%97%8B%E5%BA%97%E5%AE%A3%E4%BC%A0/"/>
       <url>blog/%E5%87%AF%E6%97%8B%E5%BA%97%E5%AE%A3%E4%BC%A0/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>凯旋文具位于山东菏泽具体是曹县，位于曹县古营镇金都商贸城凯旋文具<br>   主要商品有<br>   1:学生用品<br>   2：零食<br>   3：渔具<br>   4:电器<br>   5：洗漱用品</p><p>···</p><p><img src="2.png" alt=""><br><img src="1.jpg" alt=""></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>凯旋文具位于山东菏泽具体是曹县，位于曹县古营镇金都商贸城凯旋文具<br>   主要商品有<br>   1:学生用品<br>   2：零食<br>   3：渔具<br>   4:电器<br>   5：洗漱用品</p>]]></content>
       
       
       
